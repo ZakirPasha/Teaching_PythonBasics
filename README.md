@@ -8,7 +8,7 @@ Notebook 2 Link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZakirPasha/Teaching_PythonBasics/master?filepath=Notebook2_UserInputsandPrinting.ipynb)
 
 Notebook 3 Link:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZakirPasha/Teaching_PythonBasics/master?filepath=Notebook2_UserInputsandPrinting.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZakirPasha/Teaching_PythonBasics/master?filepath=Notebook3_FunWithStrings.ipynb)
 
 Notebook 4 Link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZakirPasha/Teaching_PythonBasics/master?filepath=Notebook4_ChangeDTypeandMath.ipynb)
